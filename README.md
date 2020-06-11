@@ -46,7 +46,7 @@ In order to perform predictive maintenance of rolling bearings, the project is s
 ### [Bearing failure detection using one-dimensional Convolutional Autoencoder](https://github.com/laiadc/PFM_Bearing_Fault_Detection/blob/master/Bearing_Fault_Detection.ipynb) 
 In this network we show how to perform early detection of bearing failures using an unsupervised method. The results of this notebook will be used to put the labels for the classification model.
 
-*NOTE*: This notebook contains interactive plots created with *plotly* library. These plots are not displayed in Github viewer. To see them, either download the notebook and open it locally (and ensure the notebook is in trusted mode), or use [nbviewer](https://nbviewer.jupyter.org/) to visualize it online. 
+<sub>*NOTE*: This notebook contains interactive plots created with *plotly* library. These plots are not displayed in Github viewer. To see them, either download the notebook and open it locally (and ensure the notebook is in trusted mode), or use [nbviewer](https://nbviewer.jupyter.org/) to visualize it online. </sub>
 
 ### [Siamese network for the classification of bearing failures](https://github.com/laiadc/PFM_Bearing_Fault_Detection/blob/master/Siamese.ipynb)
 In this notebook we use a Siamese network trained using contrastive loss to classify the root cause of the bearing failures. 
